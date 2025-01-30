@@ -1,0 +1,6 @@
+
+
+```bash
+git add .
+git commit -m "Initial commit: Student Management System"
+git push origin main
